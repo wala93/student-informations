@@ -1,0 +1,45 @@
+
+
+table th {border: #eee;
+border-style: solid;}
+
+
+
+
+body {
+    background-image: url('https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJX6OTTMEM5MWVCZFHPXYJGKR637%3Fversion%3DPublished&encodeFailures=1&ctag=%22c%3A%7BC2E674FE-AC33-45B5-929D-F7C24CA8FB7F%7D%2C1%22&srcWidth=&srcHeight=&width=563&height=375&action=Access');
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+header{height: 100px;
+background-color: rgba(96, 96, 96,0.6);
+text-align: center;
+}
+
+
+header div {margin-top: 30px;
+     margin-left:800px; }
+
+footer {background-color:  rgba(96, 96, 96,0.6);
+    position: absolute;
+bottom: 0%;
+width: 100%;
+height: 30px;
+text-align: center;}
+
+header h1 { margin-top: 20px;
+font-weight: bold;
+font-size: larger;}
+
+a { margin-left: 40px;}
+footer p { display:block;}
+fieldset{color: #eee;}
+form {width: 40%;
+    background-color: rgba(96, 96, 96,0.6); 
+clear: both;
+margin-top: 100px;}
+table {width: 50%;
+float: right;
+background-color: rgba(96, 96, 96,0.6);}
